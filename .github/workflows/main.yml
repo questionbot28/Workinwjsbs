@@ -1,0 +1,14 @@
+name: Unzip and Deploy  
+on: push  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Unzip Files
+        run: unzip DiscordInquirer-1-1.zip -d .
+      - name: Deploy to Railway
+        run: |
+          curl -fsSL https://railway.app/install.sh | sh
+          railway up
