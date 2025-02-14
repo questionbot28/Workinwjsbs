@@ -1,0 +1,7 @@
+2025-02-10 05:55:13,714 WARN For [program:bot], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2025-02-10 05:55:13,725 INFO supervisord started with pid 1727
+2025-02-10 05:55:14,732 INFO spawned: 'bot' with pid 1754
+2025-02-10 05:55:15,910 INFO success: bot entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-02-10 05:58:04,632 WARN received SIGTERM indicating exit request
+2025-02-10 05:58:04,634 INFO waiting for bot to die
+2025-02-10 05:58:05,636 WARN stopped: bot (terminated by SIGTERM)

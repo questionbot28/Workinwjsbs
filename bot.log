@@ -1,0 +1,16 @@
+ * Serving Flask app 'keep_alive'
+ * Debug mode: off
+Address already in use
+Port 8080 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-02-10 05:55:15,910 - discord_bot - INFO - Successfully loaded extension: cogs.education_manager_new
+2025-02-10 05:55:15,911 - discord_bot - INFO - Successfully loaded extension: cogs.subject_curriculum_new
+2025-02-10 05:55:15,912 - discord_bot - INFO - Successfully loaded extension: cogs.staff_commands
+2025-02-10 05:55:15,913 - discord_bot - INFO - Successfully loaded extension: cogs.ticket_manager
+2025-02-10 05:55:15,913 - discord_bot - INFO - Successfully loaded all extensions
+2025-02-10 05:55:19,448 - discord_bot - INFO - Connection check - Bot is connected and responsive
+2025-02-10 05:55:19,449 - discord_bot - INFO - Bot is ready! Logged in as EduSphere Bot
+2025-02-10 05:55:19,450 - discord_bot - INFO - Registered commands: ['chapters11', '12', 'close', '11', 'chapters12', 'ping', 'clear', 'setuptickets', 'subjects', 'staffhelp', 'help', 'announce']
+2025-02-10 05:56:16,758 - discord_bot - INFO - Connection check - Time since last check: 57.31s
+2025-02-10 05:56:16,758 - discord_bot - INFO - Connection check - Bot is connected and responsive
+2025-02-10 05:57:16,740 - discord_bot - INFO - Connection check - Time since last check: 59.98s
+2025-02-10 05:57:16,740 - discord_bot - INFO - Connection check - Bot is connected and responsive
